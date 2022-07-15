@@ -12,4 +12,4 @@ The technology section educates you on the projects and info about these technol
 
 It took me some days to complete these project and am really greatful i did it. 
 It educated me on some key basic things like linking pages, responsiveness of a site and many more. 
-Too bad it didnt educate me much on javascript but I'm still happy, Thanks. :)
+Too bad it didnt educate me much on javascript but I'm still happy, Thanks. :) 
