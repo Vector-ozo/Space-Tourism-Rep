@@ -531,9 +531,9 @@ ul{
         /* display: none; */
         position: absolute;
         top: 0;
-        right: -100%;
+        right: 0;
         background-color: white;
-        width: 65%;
+        width: 0;
         height: 100%;
         transition: .5s ease-in-out;
         z-index: 25;
@@ -564,7 +564,7 @@ ul{
     }
 
     .close-menu{
-        right: 0;
+        width: 65%;
         transition: .5s ease-in-out;
     }
 
@@ -580,7 +580,7 @@ ul{
     }
 
     .tech-flex{
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
     }
 
     .number-switch{
